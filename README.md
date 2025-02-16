@@ -7,3 +7,8 @@ Mechanical C128D Keyboard replacement using CherryMX keys
   (control board gerbers and all KIKAD files will follow shortly)
  
  * STL 3D printables uploaded
+
+2025-02-16:
+ * Updated all gerber files.
+ * Fixed the capslock problem
+ * All keys function correctly to date
